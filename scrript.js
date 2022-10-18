@@ -1,14 +1,14 @@
-output = document.getElementById('output')
-var list = [1, 2, 3, 4, 5, 'timi', 'thief'];
-var lists = [6, 7, 8, 9, 0, 'daniel'];
-console.log(list)
-console.log(lists)
+// output = document.getElementById('output')
+// var list = [1, 2, 3, 4, 5, 'timi', 'thief'];
+// var lists = [6, 7, 8, 9, 0, 'daniel'];
+// console.log(list)
+// console.log(lists)
 
 
-function myFunction() {
-    output = document.getElementById("output")
-    output.innerHTML = numbers.map(Math.sqrt);
-}
+// function myFunction() {
+//     output = document.getElementById("output")
+//     output.innerHTML = numbers.map(Math.sqrt);
+// }
 //   console.log('findindex function')
 // console.log(list.findIndex(lists > 5))
 
